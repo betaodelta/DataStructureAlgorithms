@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 TC-O(n) , SC-(n)
 
 class Solution {
